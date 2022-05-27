@@ -32,7 +32,7 @@ Get STRING_NAME from here:
    python main.py
    ```
 
-## Credits
+## Credit
 
 - [Roj](https://github.com/rojserbest): main developer
 - [Marvin](https://github.com/BlackStoneReborn): bug reporter
